@@ -1,17 +1,11 @@
 node_modules
-.env
 
 # Hardhat files
 /cache
 /artifacts
 
-# TypeChain files
-/typechain
-/typechain-types
-
-# solidity-coverage files
-/coverage
-/coverage.json
+# TypeChain generated types (not used in Hardhat v3)
+/types
 
 # Hardhat Ignition default folder for deployments against a local node
 ignition/deployments/chain-31337
